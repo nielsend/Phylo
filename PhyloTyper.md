@@ -116,10 +116,11 @@ Have a great day!
 ```
 
 <br>
-<br>
 
-##Citations
+
+## Citations
 
 [^1]: [Olivier Clermont, O., Bonacorsi, S., and Bingen, E. (2000), Rapid and Simple Determination of the Escherichia coli Phylogenetic Group Appl. Environ. Microbiol. October 2000 66:10 4555-4558; doi:10.1128/AEM. 66.10.4555-4558](http://aem.asm.org/content/66/10/4555.short). 
+
 [^2]: [Clermont, O. , Christenson, J. K., Denamur, E. and Gordon, D. M. (2013), A new E. coli phylo‐typing method. Environmental Microbiology Reports, 5: 58-65. doi:10.1111/1758-2229.12019](https://onlinelibrary.wiley.com/doi/abs/10.1111/1758-2229.12019)
 
