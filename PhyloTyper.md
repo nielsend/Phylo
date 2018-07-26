@@ -21,7 +21,7 @@ This script was used in Nielsen *et al.* (2018). Working title: Association of O
 
 
 ## Output
-* A .csv file will be created containing concise information about the strain.
+* A .csv file will be created containing concise information about each strain or contig (as separated by >).
 	* The file will be named ```phylotyped_mm_dd_yyy_hh_mm.csv```
 	* The file will be created wherever the script is located.
 	* E.g.: ![Output](Output.png)
