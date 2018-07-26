@@ -1,6 +1,6 @@
 # PhyloTyper
 
-#### A script that returns Clermont's Original[^] and Revised[^] Phylogenetic Groups for *Escherichia coli* when given genomic data in a FASTA format.
+#### A script that returns Clermont's [Original][1] and [Revised][2] Phylogenetic Groups for *Escherichia coli* when given genomic data in a FASTA format.
 
 This script was used in Nielsen *et al.* (2018). Working title: Association of Outer Membrane Protein A.
 
@@ -120,7 +120,7 @@ Have a great day!
 
 ## Citations
 
-[^]: [Olivier Clermont, O., Bonacorsi, S., and Bingen, E. (2000), Rapid and Simple Determination of the Escherichia coli Phylogenetic Group Appl. Environ. Microbiol. October 2000 66:10 4555-4558; doi:10.1128/AEM. 66.10.4555-4558](http://aem.asm.org/content/66/10/4555.short). 
+[1]: [Olivier Clermont, O., Bonacorsi, S., and Bingen, E. (2000), Rapid and Simple Determination of the Escherichia coli Phylogenetic Group Appl. Environ. Microbiol. October 2000 66:10 4555-4558; doi:10.1128/AEM. 66.10.4555-4558](http://aem.asm.org/content/66/10/4555.short). 
 
-[^]: [Clermont, O. , Christenson, J. K., Denamur, E. and Gordon, D. M. (2013), A new E. coli phylo‐typing method. Environmental Microbiology Reports, 5: 58-65. doi:10.1111/1758-2229.12019](https://onlinelibrary.wiley.com/doi/abs/10.1111/1758-2229.12019)
+[2]: [Clermont, O. , Christenson, J. K., Denamur, E. and Gordon, D. M. (2013), A new E. coli phylo‐typing method. Environmental Microbiology Reports, 5: 58-65. doi:10.1111/1758-2229.12019](https://onlinelibrary.wiley.com/doi/abs/10.1111/1758-2229.12019)
 
