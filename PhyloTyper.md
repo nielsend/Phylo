@@ -24,7 +24,7 @@ This script was used in Nielsen *et al.* (2018). Working title: Association of O
 * A .csv file will be created containing concise information about the strain.
 	* The file will be named ```phylotyped_mm_dd_yyy_hh_mm.csv```
 	* The file will be created wherever the script is located.
-	* E.g.: ![]()
+	* E.g.: ![Output](OUtput.png)
 * Verbose output on the screen is also an output. This output can be sent to a file.
 ```./PhyloTyper.py fasta_files/* > Information.txt```
 
