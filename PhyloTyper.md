@@ -7,7 +7,7 @@ This script was used in Nielsen *et al.* (2018). Working title: Association of O
 <br>
 
 ## Assumptions
- * Python is installed on machine. [Download python 2.7 here](https://www.anaconda.com/download/#macos).
+ * Python is installed on machine. [Download python 2.7](https://www.anaconda.com/download/#macos).
  * User has bash terminal. 
 
 <br>
